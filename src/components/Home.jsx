@@ -57,7 +57,7 @@ Whether it's building real-time applications, enhancing user experiences, or tac
                     </a>
                   </li>
                   <li>
-                    <a href="https://www.linkedin.com/" target="_blank">
+                    <a href="https://www.linkedin.com/in/abhishekrajput2310" target="_blank">
                       <FaLinkedin className="text-2xl cursor-pointer" />
                     </a>
                   </li>
