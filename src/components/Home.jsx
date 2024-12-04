@@ -37,11 +37,13 @@ function Home() {
             </div>
             <br />
             <p className="text-sm md:text-md text-justify">
-              Lorem ipsum dolor, sit amet consectetur adipisicing elit.
-              Quisquam, recusandae consequatur. Accusamus sint libero eligendi
-              laborum fuga repudiandae? Asperiores tempore eos animi dolores
-              corrupti! Sint quos, mollitia architecto aliquam nesciunt, optio
-              cum delectus sit voluptatum aut ratione quaerat veniam aperiam!
+            I am passionate about creating efficient, scalable, and innovative software solutions.
+             With a strong foundation in modern development technologies,
+             I enjoy turning complex ideas into user-friendly applications. My expertise spans full-stack development, 
+             problem-solving, and working collaboratively to deliver impactful results.
+
+Whether it's building real-time applications, enhancing user experiences, or tackling challenges with
+ cutting-edge tools, I thrive in crafting meaningful solutions that drive success. Let's build something amazing together!
             </p>
             <br />
             {/* social media icons */}
